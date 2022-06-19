@@ -2,19 +2,19 @@
 
 # 👨🏻‍💻  About Me
 
-## 💡  I like to explore new technologies and develop software solutions.
-## 🎓  I'm currently pursuing BE in Computer Science at Chitkara University, Punjab.
-## 🌱  I'm on track for learning more about Web Development.
-## ✍️  In my free time, I like to solve competitive programming problems.
-## ✉️  You can shoot me an email at ad.aditya.1309@gmail.com! I'll try to respond as soon as I can.
+### 💡  I like to explore new technologies and develop software solutions.
+### 🎓  I'm currently pursuing BE in Computer Science at Chitkara University, Punjab.
+### 🌱  I'm on track for learning more about Web Development.
+### ✍️  In my free time, I like to solve competitive programming problems.
+### ✉️  You can shoot me an email at ad.aditya.1309@gmail.com! I'll try to respond as soon as I can.
 
 # 🛠  Tech Stack
 
-## Java 8
-## HTML 5  CSS 3  JavaScript ECMA 6  Jquery  Bootstrap  
-## React.js  Node.js Express.js MongoDB
-## Full Stack MERN
-## Git  GitHub  Visual Studio Code 
+### Java 8
+### HTML 5  CSS 3  JavaScript ECMA 6  Jquery  Bootstrap  
+### React.js  Node.js Express.js MongoDB
+### Full Stack MERN
+### Git  GitHub  Visual Studio Code 
 
 # Github Stats 
 
