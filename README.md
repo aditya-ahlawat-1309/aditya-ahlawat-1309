@@ -1,4 +1,4 @@
-👋  Hey there! I'm Aditya
+👋  Hey there! I'm Aditya, Full Stack MERN Developer
 
 👨🏻‍💻  About Me
 
@@ -10,9 +10,10 @@
 
 🛠  Tech Stack
 
-Java
-HTML  CSS  JavaScript  Jquery  Bootstrap  
+Java 8
+HTML 5  CSS 3  JavaScript ECMA 6  Jquery  Bootstrap  
 React.js  Node.js Express.js MongoDB
+Full Stack MERN
 Git  GitHub  Visual Studio Code 
 
 
