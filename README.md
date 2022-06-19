@@ -20,7 +20,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&theme=radical)
 
-# Leetcode Competitive Coders Website
+# Leetcode Competitive Coders Coding DashBoard
 
 ![l](https://user-images.githubusercontent.com/67224103/174476991-a57541a8-69ed-47b0-ad61-ac8a9c17f98c.png)
 
