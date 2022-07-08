@@ -22,7 +22,8 @@
 
 # Leetcode Competitive Coders Coding DashBoard
 
-![l](https://user-images.githubusercontent.com/67224103/174476991-a57541a8-69ed-47b0-ad61-ac8a9c17f98c.png)
+![leetcode](https://user-images.githubusercontent.com/67224103/177896140-c406ce4e-902a-44e5-90ad-b18160232768.png)
+
 
 # Hackerrank Achievements
 
