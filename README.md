@@ -18,11 +18,13 @@
 
 # Github Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&theme=radical&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs,prs&show_owner=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&theme=radical&count_private=true&show_owner=true&show_icons=true&hide=issues,contribs,prs)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?aditya-ahlawat-1309&layout=compact)
 
-(https://github-readme-stats.vercel.app/api/wakatime?username=aditya-ahlawat-1309)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?aditya-ahlawat-1309&layout=compact)
+
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aditya-ahlawat-1309)
 
 # Leetcode Competitive Coders Coding DashBoard
 
