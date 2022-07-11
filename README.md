@@ -18,7 +18,7 @@
 
 # Github Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&theme=radical&count_private=true&show_icons=true&hide=prs,issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&theme=radical&count_private=true&show_icons=true&hide=prs,issues)
 
 # Leetcode Competitive Coders Coding DashBoard
 
