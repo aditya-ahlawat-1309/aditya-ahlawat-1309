@@ -20,9 +20,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&theme=radical&count_private=true&show_owner=true&show_icons=true&hide=issues,contribs,prs)
 
-![](https://raw.githubusercontent.com/aditya-ahlawat-1309/GithubStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/aditya-ahlawat-1309/GithubStats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/aditya-ahlawat-1309/GithubStats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/aditya-ahlawat-1309/GithubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 # Leetcode Competitive Coders Coding DashBoard
 
