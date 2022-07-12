@@ -22,8 +22,7 @@
 
 ![](https://raw.githubusercontent.com/aditya-ahlawat-1309/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ahlawat-1309&layout=compact)](https://github.com/aditya-ahlawat-1309/github-readme-stats)
-
+![](https://raw.githubusercontent.com/aditya-ahlawat-1309/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 # Leetcode Competitive Coders Coding DashBoard
 
