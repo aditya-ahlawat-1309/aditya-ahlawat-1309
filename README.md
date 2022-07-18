@@ -20,6 +20,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&theme=radical&count_private=true&show_owner=true&show_icons=true&hide=issues,contribs,prs)
 
+[![a's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Git Stats](https://github.com/aditya-ahlawat-1309/GithubStats/blob/master/generated/overview.svg)
 
 ![Git Langs Stats](https://github.com/aditya-ahlawat-1309/GithubStats/blob/master/generated/languages.svg)
