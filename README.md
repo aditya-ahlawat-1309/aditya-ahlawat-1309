@@ -28,12 +28,14 @@
 
 # Leetcode Competitive Coders Coding DashBoard
 
-![leetcode](https://user-images.githubusercontent.com/67224103/177896140-c406ce4e-902a-44e5-90ad-b18160232768.png)
+![leetcode](https://user-images.githubusercontent.com/67224103/185030303-5368dfa6-61e8-48b7-9933-eec86ce18f0b.png)
+
 
 
 # Hackerrank Achievements
 
-![h](https://user-images.githubusercontent.com/67224103/174477168-583548dc-c5b9-46ee-af3e-b8220582362c.png)
+![hack](https://user-images.githubusercontent.com/67224103/185030349-ddfcb68d-759e-41ea-9ae4-0c6ce00d30d4.png)
+
 
 
 
