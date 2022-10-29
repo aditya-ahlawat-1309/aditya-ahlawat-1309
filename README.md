@@ -22,9 +22,9 @@
 
 [![a's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&count_private=true&show_icons=true&hide=issues,contribs,prs&include_all_commits=true)](https://github.com/aditya-ahlawat-1309/github-readme-stats)
 
-![Git Stats](https://raw.githubusercontent.com/aditya-ahlawat-1309/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Git Stats](https://github.com/aditya-ahlawat-1309/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
-![Git Langs Stats](https://raw.githubusercontent.com/aditya-ahlawat-1309/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Git Langs Stats](https://github.com/aditya-ahlawat-1309/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 # Leetcode Competitive Coders Coding DashBoard
 
