@@ -1,4 +1,4 @@
-# 👋  Hey there! I'm Aditya, Full Stack MERN Developer
+# 👋  Hey there! I'm Aditya, Full Stack Developer
 
 ## 👨🏻‍💻  About Me
 
@@ -49,3 +49,6 @@
 
 ### Eamil : aditya.ahlawat.1309@gmail.com
 ### LinkedIn : https://www.linkedin.com/in/aditya-ahlawat/
+
+
+Aditya Ahlawat, Software Engineer, Full Stack Developer, Meaning of Code, 1309 Chitkara University, Final Year Project
