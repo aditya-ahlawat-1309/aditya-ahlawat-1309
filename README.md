@@ -1,4 +1,4 @@
-# 👋  Hey there! I'm Aditya, Full Stack Developer
+# 👋  Hey there! I'm Aditya Ahlawat, Full Stack Developer
 
 ## 👨🏻‍💻  About Me
 
