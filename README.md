@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻  About Me
 
-💡&nbsp; I like to explore new technologies and develop software solutions.
-🎓&nbsp; I'm currently pursuing BE in Computer Science at Chitkara University, Punjab.
-🌱&nbsp; I'm on track for learning more about Web Development.
-✍️&nbsp; In my free time, I like to solve competitive programming problems.
-✉️&nbsp; You can shoot me an email at aditya.ahlawat.1309@gmail.com! I'll try to respond as soon as I can.
+💡&nbsp; I like to explore new technologies and develop software solutions.\
+🎓&nbsp; I'm currently pursuing BE in Computer Science at Chitkara University, Punjab.\
+🌱&nbsp; I'm on track for learning more about Web Development.\
+✍️&nbsp; In my free time, I like to solve competitive programming problems.\
+✉️&nbsp; You can shoot me an email at aditya.ahlawat.1309@gmail.com! I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -44,13 +44,13 @@
 <img src="https://github.com/aditya-ahlawat-1309/GithubStats/blob/master/generated/languages.svg#gh-light-mode-only"/>
 
 
-# Leetcode Competitive Coders Coding DashBoard
+## Leetcode Competitive Coders Coding DashBoard
 
 ![leetcode](https://user-images.githubusercontent.com/67224103/185030303-5368dfa6-61e8-48b7-9933-eec86ce18f0b.png)
 
 
 
-# Hackerrank Achievements
+## Hackerrank Achievements
 
 ![hack](https://user-images.githubusercontent.com/67224103/185030349-ddfcb68d-759e-41ea-9ae4-0c6ce00d30d4.png)
 
@@ -60,8 +60,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/aditya-ahlawat/"><img src="https://img.shields.io/badge/-Rajan%20Sharma-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a><br>
-<a href="mailto:aditya.ahlawat.1309@gmail.com"><img src="https://img.shields.io/badge/-rajansharma842214@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
+<a href="https://www.linkedin.com/in/aditya-ahlawat/"><img src="https://img.shields.io/badge/-Aditya%20Ahlawat-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a><br>
+<a href="mailto:aditya.ahlawat.1309@gmail.com"><img src="https://img.shields.io/badge/-aditya.ahlawat.1309@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 </p>
 
 
