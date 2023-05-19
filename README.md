@@ -36,8 +36,8 @@
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-ahlawat-1309&layout=compact&exclude_lang=java+r&theme=vue-dark" />
  <br/>
  <br/>
-<img height="160em" src="https://github-contribution-stats.vercel.app/api/?username=aditya-ahlawat-1309"/>
-<img height="160em" src="[https://github-contribution-stats.vercel.app/api/?username=aditya-ahlawat-1309](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&count_private=true&show_icons=true&hide=issues,contribs,prs&include_all_commits=true)"/>
+<img height="250em" src="https://github-contribution-stats.vercel.app/api/?username=aditya-ahlawat-1309"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&count_private=true&show_icons=true&hide=issues,contribs,prs&include_all_commits=true"/>
  
  
 </a>
