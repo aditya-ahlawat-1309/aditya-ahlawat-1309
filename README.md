@@ -6,7 +6,7 @@
 🎓&nbsp; I'm currently pursuing BE in Computer Science at Chitkara University, Punjab.\
 🌱&nbsp; I'm on track for learning more about Web Development.\
 ✍️&nbsp; In my free time, I like to solve competitive programming problems.\
-✉️&nbsp; You can shoot me an email at aditya.ahlawat.1309@gmail.com! I'll try to respond as soon as I can.\
+✉️&nbsp; You can shoot me an email at aditya.ahlawat.1309@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
