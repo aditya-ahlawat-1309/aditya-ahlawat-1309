@@ -33,11 +33,11 @@
 <p align="center">
 <a href="https://github.com/aditya-ahlawat-1309">
  
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-ahlawat-1309&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-ahlawat-1309&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-ahlawat-1309&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-ahlawat-1309&layout=compact&exclude_lang=java+r&theme=vue-dark" />
  <br/>
  <br/>
-<img height="350em" src="https://github-contribution-stats.vercel.app/api/?username=aditya-ahlawat-1309"/>
+<img height="300em" src="https://github-contribution-stats.vercel.app/api/?username=aditya-ahlawat-1309"/>
  <br/>
  <br/>
 <img src="https://github.com/aditya-ahlawat-1309/GithubStats/blob/master/generated/overview.svg#gh-light-mode-only"/>
