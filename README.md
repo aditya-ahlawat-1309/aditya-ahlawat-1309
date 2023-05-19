@@ -34,15 +34,16 @@
 <a href="https://github.com/aditya-ahlawat-1309">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-ahlawat-1309&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-ahlawat-1309&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+ <br/>
+ <br/>
+<img height="160em" src="https://github-contribution-stats.vercel.app/api/?username=aditya-ahlawat-1309"/>
+<img height="160em" src="[https://github-contribution-stats.vercel.app/api/?username=aditya-ahlawat-1309](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&count_private=true&show_icons=true&hide=issues,contribs,prs&include_all_commits=true)"/>
+ 
+ 
 </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&theme=radical&count_private=true&show_owner=true&show_icons=true&hide=issues,contribs,prs)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=aditya-ahlawat-1309)](https://github.com/aditya-ahlawat-1309/github-contribution-stats/)
-
-
-[![a's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&count_private=true&show_icons=true&hide=issues,contribs,prs&include_all_commits=true)](https://github.com/aditya-ahlawat-1309/github-readme-stats)
 
 
 <img src="https://github.com/aditya-ahlawat-1309/GithubStats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
