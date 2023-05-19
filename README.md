@@ -44,19 +44,6 @@
 <img src="https://github.com/aditya-ahlawat-1309/GithubStats/blob/master/generated/languages.svg#gh-light-mode-only"/>
 
 
-## Leetcode Competitive Coders Coding DashBoard
-
-![leetcode](https://user-images.githubusercontent.com/67224103/185030303-5368dfa6-61e8-48b7-9933-eec86ce18f0b.png)
-
-
-
-## Hackerrank Achievements
-
-![hack](https://user-images.githubusercontent.com/67224103/185030349-ddfcb68d-759e-41ea-9ae4-0c6ce00d30d4.png)
-
-
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
@@ -65,4 +52,4 @@
 </p>
 
 
-Aditya Ahlawat, Software Engineer, Full Stack Developer, Meaning of Code, 1309 Chitkara University, Final Year Project
+Aditya Ahlawat, Software Engineer, Full Stack Developer
