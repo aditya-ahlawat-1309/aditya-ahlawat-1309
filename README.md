@@ -28,7 +28,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  
 
-# Github Stats 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/aditya-ahlawat-1309">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-ahlawat-1309&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-ahlawat-1309&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ahlawat-1309&theme=radical&count_private=true&show_owner=true&show_icons=true&hide=issues,contribs,prs)
 
