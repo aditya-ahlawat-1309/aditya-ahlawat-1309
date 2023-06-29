@@ -37,8 +37,6 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-ahlawat-1309&layout=compact&exclude_lang=java+r&theme=vue-dark" />
  <br/>
  <br/>
-![aditya-ahlawat-1309's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya-ahlawat-1309&theme=vue-dark&hide_border=true)
-
 <img height="300em" src="https://github-contribution-stats.vercel.app/api/?username=aditya-ahlawat-1309"/>
  <br/>
  <br/>
