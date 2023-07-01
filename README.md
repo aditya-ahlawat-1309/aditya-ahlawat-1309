@@ -75,14 +75,13 @@
 
 #### &nbsp;Total Question Solved - 100+
 
+<div style="display:flex">
 
 <img src="https://github.com/aditya-ahlawat-1309/aditya-ahlawat-1309/assets/67224103/a5e2a2f8-460d-4874-a0c2-6bcafa26f4e5" height="300em"/>
 
 <img src="https://github.com/aditya-ahlawat-1309/aditya-ahlawat-1309/assets/67224103/a8ae09d4-bf85-4f1c-b552-3a41208360d8" height="300em"/>
 
-![image](https://github.com/aditya-ahlawat-1309/aditya-ahlawat-1309/assets/67224103/a5e2a2f8-460d-4874-a0c2-6bcafa26f4e5)
-![image](https://github.com/aditya-ahlawat-1309/aditya-ahlawat-1309/assets/67224103/a8ae09d4-bf85-4f1c-b552-3a41208360d8)
-
+</div>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
