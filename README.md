@@ -45,11 +45,10 @@
 </a>
 </p>
 
-## Competitive Coding
+# Competitive Coding
 <br/>
-
-### &nbsp;Leetcode
-
+## &nbsp;Leetcode
+<br/>
 #### &nbsp;Global Rank - 3k ( worldwide )
 
 #### &nbsp;Coding Rank - 15k ( out of 4,00,000+ coders)
