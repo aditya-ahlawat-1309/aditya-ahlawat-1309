@@ -45,9 +45,15 @@
 </a>
 </p>
 
-### Competitive Coding
+## Competitive Coding
+<br/>
+### Leetcode
+#### Global Rank - 3k ( worldwide )
+#### Coding Rank - 15k ( out of 4,00,000+ coders)
+#### Global Competitive Coding Percentile - Top 5 %ile
+#### Total Question Solved - 1250+
+![image](https://github.com/aditya-ahlawat-1309/aditya-ahlawat-1309/assets/67224103/8096ed40-88f4-4a73-a9a1-0f23367b13f1)
 
-<img src="https://github.com/aditya-ahlawat-1309/aditya-ahlawat-1309/assets/67224103/30955357-9305-4e4b-a119-c17836939e00" height="400em"/>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
