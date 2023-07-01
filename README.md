@@ -45,6 +45,10 @@
 </a>
 </p>
 
+### Competitive Coding
+
+<img src="https://github.com/aditya-ahlawat-1309/aditya-ahlawat-1309/assets/67224103/30955357-9305-4e4b-a119-c17836939e00" height="250em"/>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
